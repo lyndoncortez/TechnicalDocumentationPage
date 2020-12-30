@@ -2,8 +2,9 @@
 💾 You can preview it here: [Technical Documentation Page](https://technical-docs-page.netlify.app)
 <br>
 <br>
+<img src="https://pro2-bar-s3-cdn-cf4.myportfolio.com/f39ec908-8957-4c67-a6b7-e3bc528bb6e2/5a407a22-73cd-4962-8173-0eeb61151d8a_rw_1920.png?h=645f7fc7357d89735892c566340ef54c">
 
-<strong>Objective:</strong> Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/NdrKKL.
+<strong>Objective:</strong>
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
